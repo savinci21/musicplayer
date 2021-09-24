@@ -113,7 +113,7 @@ let allMusic = [
     src: "music-17"
   },
   {
-    name: "Fall in love sometimes", 
+    name: "In love sometimes", 
     artist: "Elton John",
     img: "music-18",
     src: "music-18"
@@ -125,7 +125,7 @@ let allMusic = [
     src: "music-19"
   },
   {
-    name: "You are Only Lonely", 
+    name: "You're Only Lonely", 
     artist: "J.D. Souther",
     img: "music-20",
     src: "music-20"
@@ -179,10 +179,16 @@ let allMusic = [
     src: "music-28"
   }, 
   {
-    name: "For The hesitant lover", 
+    name: "For hesitant lover", 
     artist: "JANNABI",
     img: "music-29",
     src: "music-29"
+  }, 
+  {
+    name: "Knocking..heaven..", 
+    artist: "Nazareth",
+    img: "music-30",
+    src: "music-30"
   } 
  
 
