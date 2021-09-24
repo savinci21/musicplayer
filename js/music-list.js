@@ -59,7 +59,7 @@ let allMusic = [
     src: "music-8"
   },
   {
-    name: "Warm On A Cold Night", 
+    name: "Warm..Night", 
     artist: "HONNE",
     img: "music-9",
     src: "music-9"
