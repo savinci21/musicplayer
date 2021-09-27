@@ -216,7 +216,7 @@ body {
 .controls i:hover {
   font-size: 28px;
   user-select: none;
-  background: var(--crimson);
+  background: var(--royalblue);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: var(--pink);
@@ -253,7 +253,7 @@ body {
   height: 43px;
   width: 43px;
   border-radius: inherit;
-  background: linear-gradient(var(--yellow) 5%, var(--coral) 40%);
+  background: linear-gradient(135deg, var(--lightblue) 0%, var(--royalblue) 100%);
 }
 
 .play-pause:hover::before {
@@ -262,7 +262,7 @@ body {
   height: 43px;
   width: 43px;
   border-radius: inherit;
-  background: linear-gradient(var(--yellow) 5%, var(--coral) 40%);
+  background: linear-gradient(135deg, var(--yellow) 0%, var(--coral) 100%);
 }
 
 .play-pause i {
