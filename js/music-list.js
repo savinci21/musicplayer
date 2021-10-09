@@ -189,6 +189,18 @@ let allMusic = [
     artist: "Nazareth",
     img: "music-30",
     src: "music-30"
+  } ,
+ {
+    name: "Summer Night", 
+    artist: "JANNABI",
+    img: "music-31",
+    src: "music-31"
+  }, 
+ {
+    name: "Tree", 
+    artist: "Car The Garden",
+    img: "music-32",
+    src: "music-32"
   } 
  
 
